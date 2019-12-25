@@ -1,7 +1,7 @@
-[**我帮阿里云推广服务器89/年，229/3年，比学生9.9每月还便宜，买来送自己，送女朋友，马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈（老用户用家人账号买就好了，我用我妈的😂)。←点击或者扫码购买↓**](https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link)
+[**我帮阿里云中间件团队的师兄推广服务器89/年，229/3年，比学生9.9每月还便宜，买来送自己，送女朋友，马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈（老用户用家人账号买就好了，我用我妈的😂)。←点击或者扫码购买↓**](https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link)
 <p align="center">
     <a href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link" target="_blank">
-       <img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9jmxonfwfj302s02sgld.jpg" width=""/>
+       <img src="https://tva1.sinaimg.cn/large/006tNbRwly1ga1yz5mcxrj305k05kglw.jpg" width=""/>
     </a>
 </p>
 
@@ -13,11 +13,15 @@
 
 原创文章每周最少两篇，公众号首发，比博客早一到两篇.
 
+2019年个人经历，求掘金点赞->[《2020无畏年少青春，迎风潇洒前行》](https://juejin.im/post/5df603bbf265da33c90b41d4)
 <p align="center">
     <a href="https://github.com/AobingJava/JavaFamily" target="_blank">
         <img src="https://tva1.sinaimg.cn/large/006y8mN6ly1g98588lrx2j305k05kgm0.jpg" width=""/>
     </a>
 </p>
+
+
+
 
 <p align="center">
   <a href="#微信"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
@@ -31,7 +35,13 @@
   <a href="https://www.toutiao.com/c/user/3270187212/#mid=1557137040287746"><img src="https://img.shields.io/badge/toutiao-头条-9cf" alt="投稿"></a>
 </p>
 
-![](https://tva1.sinaimg.cn/large/006y8mN6ly1g93ffaeoanj30u02ejqep.jpg)
+<p align="center">
+  <a  href="https://mp.weixin.qq.com/s/vlDebqj9Peh7Fb3n82Mt8A" >
+<img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9v6ijyoiuj30oi01wwem.jpg"width="" style="margin: 0 auto;"/>
+  </a >
+</p>
+
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9xph6bjrdj30tn36xnax.jpg)
 
 <a name="目录">目录</a>
 
@@ -40,8 +50,10 @@
   - 计算机网络
   - 7种常见的设计模式和使用场景
   - Java必会基础与新版本特性
-  - [Java 并发进阶常见面试题总结](https://mp.weixin.qq.com/s/cdHfTTvMpH60SwG2bjTMBw)
-  - [如果你这样回答“什么是线程安全”，面试官都会对你刮目相看（建议珍藏）](https://mp.weixin.qq.com/s/WDeewsvWUEBIuabvVVhweA)
+  - [HashMap](https://github.com/AobingJava/JavaFamily/blob/master/docs/basics/HashMap.md)
+  - [万万没想到，HashMap默认容量的选择，竟然背后有这么多思考！？](https://mp.weixin.qq.com/s/ktre8-C-cP_2HZxVW5fomQ)
+  - [ConcurrentHashMap & Hashtable（文末送书）](https://mp.weixin.qq.com/s/AixdbEiXf3KfE724kg2YIw)
+  
 - 深入浅出JVM
 
   - JVM内存模型
@@ -56,9 +68,9 @@
   - 线程同步与互斥
   - 线程池知识点
   - 常见的JUC工具类
-
+  - [Java 并发进阶常见面试题总结](https://mp.weixin.qq.com/s/cdHfTTvMpH60SwG2bjTMBw)
+  - [如果你这样回答“什么是线程安全”，面试官都会对你刮目相看（建议珍藏）](https://mp.weixin.qq.com/s/WDeewsvWUEBIuabvVVhweA)
 - 常用工具集
-  - [顶级程序员的百宝箱](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E9%A1%B6%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E7%99%BE%E5%AE%9D%E7%AE%B1.md)
   - JVM问题排查工具-JMC
   - IDEA开发神器
   - 线上调试神器-btrace
@@ -122,9 +134,11 @@
 - 面试技巧
 
   - 简历
+  - [能不能好好写简历？](https://mp.weixin.qq.com/s/LxVeT49GMKu72PZJ-rDHpA)
   - 语言组织
   - 加分项
   - 扬长避短
+  - [自我介绍](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E6%95%96%E4%B8%99%E7%94%A820%E8%A1%8C%E4%BB%A3%E7%A0%81%E6%8B%BF%E4%BA%86%E6%AF%94%E8%B5%9B%E5%86%A0%E5%86%9B.md)
   
 - 面试真题
   - [蚂蚁金服2019实习生面经总结(已拿口头offer)](https://mp.weixin.qq.com/s/0opKiGbKjAfJkRVeVHzpZg)
@@ -132,35 +146,47 @@
   - [15个经典的Spring面试常见问题](https://mp.weixin.qq.com/s/OMlwHHnGcN7iZ8lerUvW7w)
   - [Spring常见问题总结（补充版）](https://mp.weixin.qq.com/s/wcK2qsZxKDJTLIGqEIyaNg)
   - [我是如何在面试别人Spring事务时“套路”对方的](https://mp.weixin.qq.com/s/JcHt99SAbNIlY063rmylpA)
+  - [【真实面试经历】我和阿里面试官的一次“邂逅”(附问题详解)](https://mp.weixin.qq.com/s/-DZj158-LOQmnCayf1_n3A)
+  - [一份还热乎的蚂蚁金服面经（已拿Offer）！附答案！！](https://mp.weixin.qq.com/s/HtLwChoLzqhbM4pKldLDng)
 - 程序人生系列
+  - [2020无畏年少青春，迎风潇洒前行](https://mp.weixin.qq.com/s/66ZDj60KPEfohHg0g8Cggw)
   - [写作一个月的感受](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E5%86%99%E4%BD%9C%E4%B8%80%E4%B8%AA%E6%9C%88%E5%9C%A8%E6%84%9F%E6%81%A9%E8%8A%82%E5%AF%B9%E5%A4%A7%E5%AE%B6%E8%AF%B4%E7%9A%84%E8%AF%9D.md)
   - [敖丙用20行代码拿了比赛冠军](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E6%95%96%E4%B8%99%E7%94%A820%E8%A1%8C%E4%BB%A3%E7%A0%81%E6%8B%BF%E4%BA%86%E6%AF%94%E8%B5%9B%E5%86%A0%E5%86%9B.md)
   - [应届毕业生工作7个月小结](https://mp.weixin.qq.com/s/XcrBvdlh1At_V42qfQZ9Kw)
   - [教你在服务器搭建个人面试项目](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E6%95%99%E4%BD%A0%E5%9C%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E9%9D%A2%E8%AF%95%E9%A1%B9%E7%9B%AE.md)
   - [记一次害敖丙差点丢工作的线上P0事故](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E8%AE%B0%E4%B8%80%E6%AC%A1%E5%B7%AE%E7%82%B9%E5%AE%B3%E6%95%96%E4%B8%99%E4%B8%A2%E5%B7%A5%E4%BD%9C%E7%9A%84%E7%9A%84%E7%BA%BF%E4%B8%8AP0%E4%BA%8B%E6%95%85.md)
-  - [从毕业到技术专家我做了啥](https://mp.weixin.qq.com/s/mYfVAo8-jkPFwhbqDZyQzw)
+  - [阿里五年老员工有什么话想对大家说？](https://mp.weixin.qq.com/s/9vPZd1q1vpKuE2qZazLQmA)
+  - [从毕业到技术专家我做了啥](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E9%A3%8E%E9%9B%A8%E5%8D%81%E5%B9%B4%E4%BB%8E%E6%AF%95%E4%B8%9A%E5%88%B0%E6%8A%80%E6%9C%AF%E4%B8%93%E5%AE%B6%E6%88%91%E5%81%9A%E4%BA%86%E5%95%A5.md)
+  - [50天全网2W粉，感谢坚持！](https://mp.weixin.qq.com/s/_5tVdE9oFPBUK3Z0gKH26g)
+- 吐血整理系列
+  - [顶级程序员书单集](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E3%80%8A%E5%90%90%E8%A1%80%E6%95%B4%E7%90%86%E3%80%8B%E5%8D%81%E5%B9%B4%E9%A3%8E%E9%9B%A8%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%9A%84%E4%B9%A6%E5%8D%95%E6%95%B4%E7%90%86.md)
+  - [顶级程序员的百宝箱](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E9%A1%B6%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E7%99%BE%E5%AE%9D%E7%AE%B1.md)
  # <a name="微信"></a>  <a name="公众号"></a>
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9ppafm401j30m80rkwn6.jpg)
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9zq2x908zj30m80rkn3q.jpg)
 # 赞赏码
 
 熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡(**不接受学生赞赏**)，赏了一定要加我微信跟我说。
-
-![](https://user-gold-cdn.xitu.io/2019/11/15/16e6f8c9f4d3b9bc?w=250&h=250&f=png&s=38901)
+<p align="center">
+    <a href="https://github.com/AobingJava/JavaFamily" target="_blank">
+        <img src="https://user-gold-cdn.xitu.io/2019/11/15/16e6f8c9f4d3b9bc?w=250&h=250&f=png&s=38901" width=""/>
+    </a>
+</p>
 
 # 关于我
+
+[《2019年个人经历，2020无畏年少青春，迎风潇洒前行》](https://juejin.im/post/5df603bbf265da33c90b41d4)
 
 今年23岁，来自贵州遵义，大三学分提前休满的情况，在某为某阿里系电商任职过，现在在蘑菇街算法工程部门。
 
 对很多场景比初学者可能熟悉一点，职场我也是个新手，很多知识点也是不是很清楚，不过有过很多面试经验，觉得把知识点用自己的风格展示给大家，希望大家能学到东西，我们一起进步。
 
 **很希望跟大家分享职场的一路，觉得我不错也记得分享给身边的朋友哟。**
+
+
 # 岗位内推
-找所有职位比较出色的朋友，觉得合适的给我简历我可以内推，阿里 美团 蘑菇街 拼多多 字节跳动 腾讯 等都可以.
+找所有职位比较出色的朋友，觉得合适的给我简历我可以内推，阿里\美团\蘑菇街\拼多多\字节跳动\腾讯等都可以.
 
-近期机会:
-
-蚂蚁金服相互宝用户已破亿！想深入了解这款用户增长最快的产品吗？快加入蚂蚁金服吧~业务前景广阔~技术挑战巨大！
-目前岗位有：JAVA后端，前端，算法，数据，测试，具体岗位描述可加微信私聊。
+#### 近期机会:
 
 岗位描述：
  CBU技术部是阿里巴巴集团味道最淳厚的技术团队，在这出孵化出了大量成功技术、产品和业务。朝着新零售、新制造未来的方向，CBU也在构建B端零售新未来：源头厂货通天下，搭建生产和零售快速通道，用技术、数据、算法赋能业务，挑战C2M业务新模式，真正实现让天下没有难做的生意。以下是我们的技术场景：
