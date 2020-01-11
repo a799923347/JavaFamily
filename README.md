@@ -38,7 +38,7 @@
 
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9xph6bjrdj30tn36xnax.jpg)
 
-<a name="目录">目录</a>
+<a name="目录">📚目录</a>
 
 - Java基础核心串讲
   - 计算机操作系统与Linux
@@ -54,6 +54,7 @@
 - 深入浅出JVM
 
   - JVM内存模型
+  - [【JVM故事】了解JVM的结构，好在面试时吹牛](https://mp.weixin.qq.com/s/fit90VdZUa2pG9lbET0i7w)
   - 性能调优、线上问题排查
   - 类加载机制详解
   - 垃圾回收机制
@@ -139,7 +140,9 @@
   - [自我介绍](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E6%95%96%E4%B8%99%E7%94%A820%E8%A1%8C%E4%BB%A3%E7%A0%81%E6%8B%BF%E4%BA%86%E6%AF%94%E8%B5%9B%E5%86%A0%E5%86%9B.md)
 - 研发规范
   - [为什么阿里巴巴禁止开发人员使用isSuccess作为变量名？](https://mp.weixin.qq.com/s/xvTCaBXkRc7e6dGCUJxRPQ)
+  - [原创 | 为什么阿里巴巴要求谨慎使用ArrayList中的subList方法](https://mp.weixin.qq.com/s/9y89Hy-YnpPjXpcmXpy_GQ)
 - 面试真题
+  - [《大厂面试》京东+百度一面，不小心都拿了Offer](https://mp.weixin.qq.com/s/VVonP6MgGRUnBnWa2ukkyw)
   - [蚂蚁金服2019实习生面经总结(已拿口头offer)](https://mp.weixin.qq.com/s/0opKiGbKjAfJkRVeVHzpZg)
   - [Bigo的Java面试，我挂在了第三轮技术面上......](https://mp.weixin.qq.com/s/3_HnVzGm16zU2zhk7BnwFw)
   - [15个经典的Spring面试常见问题](https://mp.weixin.qq.com/s/OMlwHHnGcN7iZ8lerUvW7w)
@@ -162,6 +165,7 @@
 - 吐血整理系列
   - [顶级程序员书单集](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E3%80%8A%E5%90%90%E8%A1%80%E6%95%B4%E7%90%86%E3%80%8B%E5%8D%81%E5%B9%B4%E9%A3%8E%E9%9B%A8%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%9A%84%E4%B9%A6%E5%8D%95%E6%95%B4%E7%90%86.md)
   - [顶级程序员的百宝箱](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E9%A1%B6%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E7%99%BE%E5%AE%9D%E7%AE%B1.md)
+  - [顶级大佬学习方法](https://mp.weixin.qq.com/s/JX72OoiNrZ9R0DTuOOtcoA)
  # <a name="微信"></a>  <a name="公众号"></a>
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9zq2x908zj30m80rkn3q.jpg)
 # 赞赏码
@@ -209,6 +213,22 @@
 经常有人问我看了能不能吊打面试官，不能。
 
 所有文章的名字只是我的噱头，我们应该有一颗谦逊的心，所以希望大家怀着空杯心态好好学，一起进步。
+# 服务器购买
+我帮阿里云中间件团队的师兄推广服务器，比较便宜：89/年，229/3年，比学生9.9每月还便宜，买来送自己，送女朋友，马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈（老用户用家人账号买就好了，我用我妈的😂)
+
+
+<p align="center">
+  <a  href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link" >
+  ←点击或者扫码购买↓
+  </a >
+</p>
+
+<p align="center">
+    <a href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link" target="_blank">
+       <img src="https://tva1.sinaimg.cn/large/006tNbRwly1ga1yz5mcxrj305k05kglw.jpg" width=""/>
+    </a>
+</p>
+
 # 鸣谢列表
 
 以下排名不分先后!
